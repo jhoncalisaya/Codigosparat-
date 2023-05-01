@@ -1,0 +1,42 @@
+/* Estilos para la página de corazones latiendo */
+body {
+	background-color: #FFD6E4;
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+}
+
+header {
+	background-color: #F97BA0;
+	color: #FFFFFF;
+	padding: 20px;
+	text-align: center;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+	display: inline-block;
+	margin: 0 10px;
+}
+
+nav a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+nav a:hover {
+	text-decoration: underline;
+}
+
+main {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 40px 20px;
+}
+
+section
